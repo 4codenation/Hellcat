@@ -1,0 +1,29 @@
+# Certificates & keys
+certs/
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temp
+*.tmp
+*.bak
+*.swp
+*~
